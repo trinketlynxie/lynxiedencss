@@ -340,7 +340,7 @@ no it doesn't work if you just do background.
 may 8th: stop touchy */
 	
 #chatMessageList[data-pings="enabled"] .s-chat-message_mention {
-background-color: #HEX !important;
+background-color: #073560 !important;
 border-left: 6px solid #HEX !important;
 color: #HEX !important; }
 
