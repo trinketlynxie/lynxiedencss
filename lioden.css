@@ -214,9 +214,9 @@ color: #HEX !important; }
 
 input.bad {
 background: #232a3c !important;
-color: #fff !important;}
+color: #ee3131 !important;}
 input.bad a {
-color: #HEX !important; }
+color: #fff !important; }
 
 table#player.table hr {
 display: none !important; }
@@ -444,8 +444,6 @@ just don't use apostraphes (') in the actual text, that messes with the code
 #about > tbody > tr:nth-child(1) > td > div::after {
     content:', TEXT';
     font-size:17px;
-    
-}
  */
 /* CUSTOM KING TITLE - BEFORE 
  
@@ -524,10 +522,10 @@ textarea, select, button.button, a.btn.btn-default.button {background: white !im
  
 input, textarea, select, button.button,
 a.btn.btn-default.button {
-background: #fff !important;
+background: #47516d !important;
 border: none !important;
 border-radius: 0px !important;
-color: #HEX !important;
+color: #bcc6e2 !important;
 text-shadow: none !important; }
  
 /* CAVE NAMES - changes the color of of where cave names are displayed */
@@ -877,12 +875,12 @@ or fill out both i can't stop you but it'll be a clusterfuck */
 
 /* MEMBER ONLINE */
 .member-online {
-    background: #HEX;
-    content:url('https://oceancake.carrd.co/assets/images/gallery30/4a14b474.gif?v=edab04a1')!important;
+    background: #2bb17b;
+    content:url('none')!important;
 	border-radius: 20px;
-    width:40px!important;
-    height:40px;
-	margin:-10px;
+    width:10px!important;
+    height:10px;
+	margin:-1px;
 	margin-left:10px; }
 	
 /* MEMBER OFFLINE */
